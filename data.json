@@ -7,18 +7,18 @@
         },
         {
             "recipeId": "A124",
-            "title": "Burger",
-            "url": ""
+            "title": "ChickenSquare",
+            "url": "images/chickensquare.jpeg"
         },
         {
             "recipeId": "76788",
-            "title": "Taco",
-            "url": ""
+            "title": "TacoRing",
+            "url": "images/tacoring.jpg"
         },
         {
             "recipeId": "BB124",
-            "title": "Pasta",
-            "url": ""
+            "title": "PestoPasta",
+            "url": "images/pestopasta.webp"
         },
         {
             "recipeId": "123456",
