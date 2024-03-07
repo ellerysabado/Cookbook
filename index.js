@@ -16,7 +16,7 @@ function loadRecipes(data) {
         recipeCard.classList.add("col");
         recipeCard.innerHTML = `
             <div id=${cardId} class="card shadow-sm">
-                <img src="${url}" alt="${title}" class="bd-placeholder-img card-img-top">
+                <img src="${url}" alt="${title}" class="bd-placeholder-img card-img-top" width="400px" height="400px">
                 <div class="card-body">
                     <p class="card-text">${title}</p>
                     <div class="d-flex justify-content-between align-items-center">
