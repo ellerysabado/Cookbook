@@ -27,21 +27,9 @@ function loadRecipes(data) {
         `;
 
         // Add event listener to the recipe card based on path
-        if (path === "tacoring.html") {
-            recipeCard.addEventListener("click", function() {
-                window.location.href = path;
-            });
-        }
-        if (path === "chickensquare.html") {
-            recipeCard.addEventListener("click", function() {
-                window.location.href = path;
-            });
-        }
-        if (path === "pestopasta.html") {
-            recipeCard.addEventListener("click", function() {
-                window.location.href = path;
-            });
-        }
+        recipeCard.addEventListener("click", function() {
+            window.location.href = `recipe.html?recipeId=${recipe.recipeId}`;
+        });
 
         recipeContainer.appendChild(recipeCard);
     });
