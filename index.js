@@ -37,6 +37,11 @@ function loadRecipes(data) {
                 window.location.href = path;
             });
         }
+        if (path === "pestopasta.html") {
+            recipeCard.addEventListener("click", function() {
+                window.location.href = path;
+            });
+        }
 
         recipeContainer.appendChild(recipeCard);
     });
