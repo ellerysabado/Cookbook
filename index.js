@@ -16,14 +16,22 @@ function loadRecipes(data) {
         let recipeCard = document.createElement("div");
         recipeCard.classList.add("col");
         recipeCard.innerHTML = `
-            <div id=${cardId} class="card shadow-sm">
-                <img src="${url}" alt="${title}" class="bd-placeholder-img card-img-top" width="400px" height="400px">
-                <div class="card-body">
-                    <p class="card-text">${title}</p>
+        <div class="container py-10">
+            <div class="row justify-content-center">
+                <div class="col">
+                <div class="card shadow-sm" style="background-color: #E78895;">
+
+                    <img src="${url}" alt="${title}" style="padding: 10px;">
+                    <div class="card-body text-center" style="background-color: #E78895;">
+                    <p class="card-text" style="font-size: 24px;"><strong>${title}</strong></p>
                     <div class="d-flex justify-content-between align-items-center">
+
+                    </div>
                     </div>
                 </div>
+                </div>
             </div>
+        </div>
         `;
 
         // Add event listener to the recipe card based on path
@@ -31,6 +39,20 @@ function loadRecipes(data) {
             window.location.href = `recipe.html?recipeId=${recipe.recipeId}`;
         });
 
+
         recipeContainer.appendChild(recipeCard);
     });
 }
+
+//         <div class="container py-10">
+//   <div class="row justify-content-center" >
+//     <div class="col-6">
+//       <div class="card shadow-sm">
+//         <img src="${url}" alt="${title}" class="bd-placeholder-img card-img-top" style="height: 200px; object-fit: cover;">
+//         <div class="card-body text-center" style="height: 100%">
+//           <p class="card-text" style="height: 100%; display: flex; align-items: center; justify-content: center;">${title}</p>
+//         </div>
+//       </div>
+//     </div>
+//   </div>
+// </div>
