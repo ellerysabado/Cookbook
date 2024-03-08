@@ -1,0 +1,22 @@
+{
+    "Cooking": [
+        {
+            "url": "images/handwash.jpg",
+            "title": "Handwashing",
+            "description": "Handwashing is very important to kill bacetria before handling food.",
+            "remember": "Remember to wash your hands before, after, and even during cooking"
+        },
+        {
+            "url": "images/crosscontaminate.jpg",
+            "title": "Cross Contamination",
+            "description": "Different utencils and surfaces should be used for different foods so bacetria is not transfered",
+            "remember": "Remember never to handle things like raw meat near items that will not be cooked"
+        },
+        {
+            "url": "images/cooktemp.jpg",
+            "title": "Food Temperatures",
+            "description": "Different foods must be stored and cooked at different temperatures to be safe",
+            "remember": "Remember to check tempratures when cooking and store items that must be cold in a refrigirator or freezer"
+        }
+    ]
+}

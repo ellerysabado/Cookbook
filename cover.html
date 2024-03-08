@@ -95,13 +95,7 @@
         }
 
         body {
-            background-image: url('myotherimages/kitchen-cooking-book.avif');
-            background-size: cover;
-            /* Ensure the image covers the entire background */
-            background-position: center;
-            /* Center the image */
-            background-repeat: no-repeat;
-            /* Prevent the image from repeating */
+            background-color: #FFF7F1!important;
         }
 
 
@@ -182,7 +176,7 @@
         </div>
     </nav>
 
-    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column" style="margin-top: 50px;">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column" style="margin-top: 0px;">
         <main class="px-3">
             <h1 style="color: #000033!important; margin-bottom: 20px;">Ellery and Owen's Cookbook</h1>
             <p class="lead" style="color: #000033!important">We have included many of our favorite recipes, please
@@ -191,12 +185,18 @@
                 <a href="index.html" class="btn btn-lg btn-light fw-bold border-white bg-white"
                     style="background-color: #E78895!important; color: #ffffff">View recipes</a>
             </p>
+            <h4>Scroll to view saftey tipes for cooking!</h4>
         </main>
+
+        <div id="safety-tips-container" class="row justify-content-center mt-5" >
+            <!-- Safety tips will be added here by JavaScript -->
+        </div>
 
         <footer class="mt-auto text-white-50">
             <p></p>
         </footer>
     </div>
+    <script src="cover.js"></script>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
