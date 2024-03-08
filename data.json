@@ -36,7 +36,7 @@
             "directions": "1). Add the chicken and top with salt and pepper.\n2). Smear over the pesto over the chicken.\n3). Squeeze over the lemon juice.\n4). Slice the butter and add on top.\n5). Place the lid on the slow cooker. Cook on LOW for 5-6 hours without opening the lid during the cooking time\n6). Shred the chicken right in the slow cooker with 2 forks.\n7). Add the cooked and drained pasta and the parmesan cheese, stir. \n8). Sprinkle over the mozzarella cheese. Place the lid back on the slow cooker for 15 minutes more or until the cheese melts."
         },
         {
-            "recipeId": "123456",
+            "recipeId": "Dirt",
             "title": "Dirt",
             "url": "images/Dirt.jpg",
             "path": "sushi.html",
@@ -44,7 +44,7 @@
             "directions": "1) Cream together butter, cream cheese and powdered sugar.\n2) In another bowl mix milk, pudding mix and cool whip.\n3) Add to cheese mixture and blend well.\n4) Layer cookie crumbs alternately with pudding mixture beginning and ending with crumbs.\n5) Breaking about 6 Oreo cookies at a time into a blender works well to crush cookies.\n6) Put dirt into a planter, add flowers and gummy worms.\n7) Don’t tell your guests this is their dessert until the end of the meal."
         },
         {
-            "recipeId": "767886",
+            "recipeId": "Kolacky",
             "title": "Kolacky",
             "url": "images/kolacky.jpg",
             "path": "cake.html",
@@ -52,7 +52,7 @@
             "directions": "1) Cut with pastry cutter all ingredients like you would for a pie dough.\n2)Roll out with some flour on the board.\n3)Cut into round shapes. I use the top (lid) of a large jar to cut dough.\n4)Use any filling you want into the middle.\n5)Bake for 400*F for 10 minutes or until lightly brown."
         },
         {
-            "recipeId": "BB1246",
+            "recipeId": "Russian",
             "title": "Russian Pudding",
             "url": "images/RussianPudding.jpg",
             "path": "soup.html",
@@ -60,20 +60,76 @@
             "directions": "1) Dissolve gelatin with boiling water.\n2)Add coffee mate, sugar and sour cream.\n3)Beat and mix well.\n4)Chill into a bundt cake mold.\n5)For topping, add frozen sugared strawberries around the pudding."
         },
         {
-            "recipeId": "767886",
-            "title": "Pretzel",
+            "recipeId": "HOPIA",
+            "title": "Hopia",
             "url": "",
             "path": "pretzel.html",
-            "ingredients": "",
-            "directions": ""
+            "ingredients": "<strong>Dough</strong>\n2 1/2 C all purpose flour\n1/2 C water \n1/2 tbsp sugar\n1/ Tbsp corn syrup\n1/2 C pork lard\n\n<strong>Paste</strong>\n1 C all purpose flour\n1/2 C pork lard\n\n<strong>Filling</strong>\n2 C mango cooked or paste (or  Ube)\n1 C sugar",
+            "directions": "Sift flour in a large bowl.  Make a well aadd water sugar and corn syrup.  Stir water gently to dissolve sugar and syrup.  Stir water gently to dissolve sugar and syrup. Add pork lard and mix with wooden spoon just to incorporate ingredients with flour.  Form dough into a ball, cover with cloth and set aside for 30 mins.  In a bowl mix together 1 C flour, 1/2 C pork lard until homogenous paste is formed.  On lightly floured bard, roll out dough with a rolling pin, to form a rectangle 1/4 inch thick.  With a spatula spread the paste evenly over the rectangular dough.  Fold the uncovered portion over the center and fold the remaining 1/3 over the first gold to make 3 layers of dough with ease in between each layer.  Roll out dough into original size and repeat folding process without the paste.  Roll dough to its original size.  Cut sheet of dough lengthwise into 2 equal portions.  Roll each portion in jelly and roll with rolling pin to form circular pieces. Put about 1 tbsp of filing at the center and bring sides to the top center.  Seal, press top to flatten.  Bake in uncreased pan, brush with egg wash(yolk).  Bake at 400*F  for 25-30 minutes."
         },
         {
-            "recipeId": "BB12478",
-            "title": "Water",
+            "recipeId": "Rice",
+            "title": "Puto (Rice cakes)",
             "url": "",
             "path": "water.html",
-            "ingredients": "",
-            "directions": ""
+            "ingredients": "2 C rice (soak, clean, blend with 1 1/2 C water)\n1/4 tsp yeast in every cup of rice (add 1/4 C warm water\n1 1/2 C white sugar\n1/2 tsp salt\n2 scoops of cooked rice",
+            "directions": "Let rise until it doubles its bulk.  Steam until done."
+        },
+        {
+            "recipeId": "Edna",
+            "title": "Puto (Edna Claudio)",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "2 rice or all purpose rice flour\n1 C milk\n1/2 C water\n3 tsp baking powder\n1 or more egg whites (glossy)\n1  1/4 c sugar \nAnise seeds",
+            "directions": "Beat egg whites, then mix other ingredients. Steam  5-6 minutes"
+        },
+        {
+            "recipeId": "Apple",
+            "title": "Apple Cake",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "3 C flour\n3 C apple cubes\n2 C sugar\n1 tsp cinnamon\n1 tsp nutmeg\n3 eggs\n1 C cooking oil\n1 C nuts\n\n<strong>TOPPING</strong>\n1/2 C sugar\n1 tsp cinnamon\n1/4 C nuts",
+            "directions": "Mix and bake in well grease & flour pan, at 350* F until done (about 45 mins)"
+        },
+        {
+            "recipeId": "Fall",
+            "title": "Fall Apple Cake",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "1 1/4 C sugar\n1/2 C cooking oil\n2 egg whites\n1 egg\n2 tsp vanilla extract\n1 C apple juice\n2 C all purpose four\n3/4 C whole wheat flour\n2 tsp baking powder\n2 tsp cinnamon\n1 tsp nutmeg\n1/2 tsp baking soda\n3 C peeled, cored and sliced cooking apples\n1/2 C finely chopped toasted walnuts\nPowdered sugar and vanilla yogurt (optional)",
+            "directions": "In a large mixer bowl, beat sugar and oil on medium speed till combined. Add eggs & vanilla.  Beat on medium speed for 1 minute or till creamy.  Stir in juice in a medium bowl tire together all purpose flour, whole wheat flour, baking powder, cinnamon, nutmeg & baking soda. Stir flour mixture into egg mixture.  Stir in apples and the walnuts.  Pour latte into a greased and floured 10 inch tube pan. Bake at350* for 60-65 mins.  Rove form pan, cool for 30 minutes. Sprinkle with powdered sugar top each slice with a dollop of vanilla yogurt & nutmeg."
+        },
+        {
+            "recipeId": "Pumpkin",
+            "title": "Pumpkin Bread",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "2 C cooked PUMPKIN or 16oz canned pumpkin\n3 1/2 C Flour\n3 C SUGAR\n1 C vegetable oil\n4 beaten eggs\n2 tsp baking soda\n1 tsp baking powder\n2 tsp salt\n1 tsp each of all spice, cinnamon, nutmeg and cloves\n2/3 C water",
+            "directions": "Cream oil and sugar. Add eggs pumpkin, beat well. Sift together dry ingredients. Add dry ingredients alternately with water. Pour into 2 well greased & floured pans (9x5, 2 loaves)\nBake at 350*F for 1 hour.  Let stand for 10 minutes. Remove from pan, cool."
+        },
+        {
+            "recipeId": "Cream",
+            "title": "Cream Puff",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "1 C water\n1 stick butter\n1 tsp salt\n1 C flour\n4 eggs",
+            "directions": "Bring water and butter to boil. Remove from stove\nADD flour, salt and mix\nADD eggs one at a time. Mix very well. \nBake at 325*F for 35 minutes"
+        },
+        {
+            "recipeId": "Pianono",
+            "title": "Pianono",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "Filling:\n1 stick maragarine\n1 C evaporated milk\n4 eggs yolks\n1/2 C sugar\n2 tsp cornstarch\n1 bottle macapuno(coconut)\n\nCake:\n1/2 C flour\n1/2 C sugar\n3-4 eggs\n1 tsp Cream of tartar\n2 tsp baking powder",
+            "directions": "Melt margarine (low fire) add milk, then egg yolks, sugar, cornstarch until thick. Cool then add macapuno.\n\nBeat egg whites (with cream of tartar) then add egg yolks fillings then fold the ingredients.\nBake at 350*F for 10-12 minutes. Let cook before rolling.  \nRoll with filling"
+        },
+        {
+            "recipeId": "Mocha",
+            "title": "Mocha Roll",
+            "url": "",
+            "path": "pretzel.html",
+            "ingredients": "1 C cake flour\n1 tsp baking powder\n4 large eggs\n3/4 C sugar\n1 tsp vanilla extract\n\nMocha Filling:\n1/2 lb butter or margarine\n1 1/2 C powdered sugar\n3 tbsp strong coffee & milk\n1/2 C chopped nuts or any kind",
+            "directions": "Beat eggs, add sugar, add 1/3 C water & vanilla extract. Slowly mix in the dry ingredients.\nBake 375* F for 12-15 minutes"
         }
     ]
 }
