@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", async function() {
   });
   
   function loadTacoRing(data) {
-    const tacoRing = data.Recipe.find(recipe => recipe.title === "TacoRing");
+    const tacoRing = data.Recipe.find(recipe => recipe.title === "Taco Ring");
     
     if (tacoRing) {
       const ingredients = tacoRing.ingredients.split('\n').map(item => `<li>${item}</li>`).join('');
