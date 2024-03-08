@@ -32,6 +32,11 @@ function loadRecipes(data) {
                 window.location.href = path;
             });
         }
+        if (path === "chickensquare.html") {
+            recipeCard.addEventListener("click", function() {
+                window.location.href = path;
+            });
+        }
 
         recipeContainer.appendChild(recipeCard);
     });
