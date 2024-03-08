@@ -4,6 +4,7 @@
             "recipeId": "1234",
             "title": "Pizza",
             "url": "images/Margherita.png",
+            "path": "pizza.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -11,6 +12,7 @@
             "recipeId": "A124",
             "title": "ChickenSquare",
             "url": "images/chickensquare.jpeg",
+            "path": "chickensquare.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -18,6 +20,7 @@
             "recipeId": "76788",
             "title": "Taco Ring",
             "url": "images/tacoring.jpg",
+            "path": "tacoring.html",
             "description":"This is a recipe that Owen enjoys and is great leftover.\nIt is also very easy to make.",
             "ingredients" : "½ lb (700 g) lean (90%) ground beef\n1 pkg (1-1.25 oz/30-35 g) taco seasoning mix\n1¾ cups (7 oz/200 g) shredded cheddar cheese, divided\n2 tbsp (45 mL) water\n 2 pkg (8 oz /250 g each) refrigerated crescent rolls\n1   egg white, lightly beaten\nOptional toppings: salsa, shredded lettuce, chopped onion and tomato, sliced olives, and sour cream",
             "directions": "Preheat the oven to 375°F (190°C). Cook the ground beef in a 5-qt. (4.7-L) Brilliance Nonstick Saute Pan over medium heat for 10-12 minutes or until it's no longer pink, breaking beef into crumbles, then drain. Transfer the beef to a Classic Batter Bowl. Stir in the taco seasoning mix, 1 ½ cups of the cheese, and water.\nUnroll the crescent dough and separate it into 16 triangles. Arrange the triangles, slightly overlapping, in a circle on a Pizza Stone with the wide ends of the triangles overlapping in the center and points toward the outside. There should be a 5 inch (13-cm)-diameter opening in the center of the stone. The narrow triangle points of dough will extend off the edge of the baking stone.\nUsing a Large Scoop, scoop the filling evenly over the dough in a continuous circle. Bring the points of triangles up over the filling and tuck them under the dough at center to form a ring. (Filling will show.) Brush the top with the egg white. Sprinkle with the remaining cheese. Bake for 25-30 minutes or until it is golden brown. Serve with toppings."
@@ -26,6 +29,7 @@
             "recipeId": "BB124",
             "title": "PestoPasta",
             "url": "images/pestopasta.webp",
+            "path": "pestopasta.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -33,6 +37,7 @@
             "recipeId": "123456",
             "title": "Sushi",
             "url": "",
+            "path": "sushi.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -40,6 +45,7 @@
             "recipeId": "767886",
             "title": "Cake",
             "url": "",
+            "path": "cake.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -47,6 +53,7 @@
             "recipeId": "BB1246",
             "title": "Soup",
             "url": "",
+            "path": "soup.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -54,6 +61,7 @@
             "recipeId": "767886",
             "title": "Pretzel",
             "url": "",
+            "path": "pretzel.html",
             "ingredients" : "",
             "directions": ""
         },
@@ -61,6 +69,7 @@
             "recipeId": "BB12478",
             "title": "Water",
             "url": "",
+            "path": "water.html",
             "ingredients" : "",
             "directions": ""
         }

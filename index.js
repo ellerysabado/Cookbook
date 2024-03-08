@@ -10,6 +10,7 @@ function loadRecipes(data) {
         let recipeId = recipe.recipeId;
         let title = recipe.title;
         let url = recipe.url;
+        let path = recipe.path;
         let cardId = "recipe-card-" + index;
 
         let recipeCard = document.createElement("div");
@@ -24,6 +25,13 @@ function loadRecipes(data) {
                 </div>
             </div>
         `;
+
+        // Add event listener to the recipe card based on path
+        if (path === "tacoring.html") {
+            recipeCard.addEventListener("click", function() {
+                window.location.href = path;
+            });
+        }
 
         recipeContainer.appendChild(recipeCard);
     });
